@@ -1,4 +1,4 @@
-1.Ubuntu sistem gereksinimleri 
+ 1.Ubuntu sistem gereksinimleri 
     Ubuntuyu kurmadan önce dikkat etmeniz gereken bazı noktalar.
     ->Cihazınızda en az 25 GB boş depolama alanı olmasını tavsiye ederim, fakat minimal bir kurulum istiyorsanız en az 5 GB yeterlidir. 
     ->Kurmak istediğiniz Ununtu sürümünü içeren bir harici depolama (Flash Bellek,SSD,HDD).
